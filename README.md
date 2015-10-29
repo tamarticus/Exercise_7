@@ -6,7 +6,7 @@ API parsing in P5.js
 	Then visualize this information on the screen in some way.
 
 	You can use the JSON file here called "rats.js." OR use another open API.
-	[OpenWeatherMap](http://openweathermap.org/API) is another API that does not require API keys.
+	(OpenWeatherMap)[http://openweathermap.org/API] is another API that does not require API keys.
 
 	A few others are listed at the bottom of this link:
 	https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON
